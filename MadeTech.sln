@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeTech.Console", "ConsoleApp1\MadeTech.Console.csproj", "{D4B8DA7A-7B5F-44F4-AAA8-92C4E9830716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MadeTech.UnitTests", "MadeTech.UnitTests\MadeTech.UnitTests.csproj", "{CB816D89-88A0-4D8E-B759-7C344FE6F422}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B8DA7A-7B5F-44F4-AAA8-92C4E9830716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B8DA7A-7B5F-44F4-AAA8-92C4E9830716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B8DA7A-7B5F-44F4-AAA8-92C4E9830716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B8DA7A-7B5F-44F4-AAA8-92C4E9830716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB816D89-88A0-4D8E-B759-7C344FE6F422}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB816D89-88A0-4D8E-B759-7C344FE6F422}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB816D89-88A0-4D8E-B759-7C344FE6F422}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB816D89-88A0-4D8E-B759-7C344FE6F422}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9B2AC3D-821A-4CBA-8A39-0AE6B69D995B}
+	EndGlobalSection
+EndGlobal

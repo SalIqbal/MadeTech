@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "msKsKXZNDC+UWFr7x/HYjyz8YvHE7RXu6DZ3iRHkoulj6ycgNDv4G6/MQdmCSPBuYlhDfszEwtTayFw34ngYEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\syner\\OneDrive\\Documents\\ProgrammingPre\\C-Sharp\\Made-Tech\\ConsoleApp1\\MadeTech.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\syner\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\syner\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\syner\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\syner\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

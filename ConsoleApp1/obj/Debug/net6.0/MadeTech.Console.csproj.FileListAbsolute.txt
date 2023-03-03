@@ -1,0 +1,15 @@
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\bin\Debug\net6.0\MadeTech.Console.exe
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\bin\Debug\net6.0\MadeTech.Console.deps.json
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\bin\Debug\net6.0\MadeTech.Console.runtimeconfig.json
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\bin\Debug\net6.0\MadeTech.Console.dll
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\bin\Debug\net6.0\MadeTech.Console.pdb
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.csproj.AssemblyReference.cache
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.AssemblyInfoInputs.cache
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.AssemblyInfo.cs
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.csproj.CoreCompileInputs.cache
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.dll
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\refint\MadeTech.Console.dll
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.pdb
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\MadeTech.Console.genruntimeconfig.cache
+C:\Users\syner\OneDrive\Documents\ProgrammingPre\C-Sharp\MadeTech\MadeTech\ConsoleApp1\obj\Debug\net6.0\ref\MadeTech.Console.dll
